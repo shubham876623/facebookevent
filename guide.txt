@@ -1,0 +1,19 @@
+*******************Three steps to run facebook event scraper to any system*************************** 
+
+Step 1.
+install python into yoor system from python.org 
+ 
+setp 2.
+    Creation of virtual environments 
+
+
+    install all the dependencies from given requirements.txt file  using ..
+    pip install -r requirements.txt
+
+
+Step 3.
+   Run program by writing given command on the terminal
+
+    python facebookeventscraper.py 
+
+
